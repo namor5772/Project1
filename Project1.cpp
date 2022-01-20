@@ -1,4 +1,4 @@
-// Project1.cpp : Defines the entry point for the application. ----
+// Project1.cpp : Defines the entry point for the application. bbbbbb
 //
 
 #include "framework.h"
